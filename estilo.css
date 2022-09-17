@@ -1,0 +1,27 @@
+
+.cajas{
+	margin: 0 auto !important; 
+	 display: flex  !important;
+  flex-wrap: wrap !important;
+  margin-top: 100px !important;
+}
+
+.pedales{
+
+	display: inline;
+	margin: 0 auto;
+}
+
+.pedalesmod{
+	padding-top:40px !important;
+}
+
+[atributo-de-imagen="logob"]{
+	width: 650px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 100px;
+} 
+
+
+		*{background-color: black;}
